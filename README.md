@@ -1,2 +1,2 @@
-# BacterialGenetics_CNN
+# BacterialGenetics
 
