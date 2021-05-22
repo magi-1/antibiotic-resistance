@@ -2,4 +2,4 @@
 
 In this project I use Google's JAX deep learning framework to engineer an optimal CNN architecture for predicting antibiotic resistance using bacterial DNA sequences. 
 
-![Words](https://imgur.com/iVaCzZj)
+![Words](https://i.imgur.com/iVaCzZj.png)
