@@ -4,5 +4,5 @@ In this project I use Google's JAX deep learning framework to engineer an optima
 
 
 <p align="center">
-  ![](https://i.imgur.com/iVaCzZj.png)
+  ![Words](https://i.imgur.com/iVaCzZj.png)
 </p>
